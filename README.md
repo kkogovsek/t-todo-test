@@ -11,7 +11,7 @@ $ yarn start
 $ yarn
 $ npm i -g cypress
 # In folder cypress do
-$ cypress .
+$ cypress open .
 ```
 
 # Available commands
